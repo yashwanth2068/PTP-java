@@ -1,6 +1,6 @@
 class fourth{
 	Static int x = 20;
-	public static void main(Sring...args){
+	public static void main(String...args){
 	int x = 22;
 	System.out.println(x);
 	new Fourth().main();
